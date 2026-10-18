@@ -1,0 +1,12 @@
+{
+  "title": "FeedMeld real check",
+  "link": "https://github.com/Kinfxhk/FeedMeld",
+  "output": "merged.xml",
+  "maxItems": 100,
+  "maxAgeDays": 30,
+  "feeds": [
+    "https://github.com/Flow-Launcher/Flow.Launcher/releases.atom",
+    "https://hnrss.org/frontpage"
+  ],
+  "exclude": ["(?i)^v1\\."]
+}

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FeedMeld/FeedMeld.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FeedMeld.Tests/FeedMeld.Tests.csproj" />
+  </Folder>
+</Solution>

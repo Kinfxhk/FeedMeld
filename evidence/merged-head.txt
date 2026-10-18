@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>FeedMeld real check</title>
+    <link>https://github.com/Kinfxhk/FeedMeld</link>
+    <description>FeedMeld real check</description>
+    <item>
+      <link>https://www.getlazarus.org/dynamic/</link>
+      <category>Hacker News: Front Page</category>
+      <title>Free Pascal Compiler Now Supports Dynamic Packages</title>
+      <description>
+&lt;p&gt;Article URL: &lt;a href="https://www.getlazarus.org/dynamic/"&gt;https://www.getlazarus.org/dynamic/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50144066"&gt;https://news.ycombinator.com/item?id=50144066&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description>
+      <pubDate>Sun, 18 Oct 2026 18:48:04 Z</pubDate>
+    </item>
+    <item>
+      <link>https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</link>
+      <category>Hacker News: Front Page</category>
+      <title>HOA's are making the home crisis worse</title>
+      <description>
+&lt;p&gt;Article URL: &lt;a href="https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html"&gt;https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50144005"&gt;https://news.ycombinator.com/item?id=50144005&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 52&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description>
+      <pubDate>Sun, 18 Oct 2026 18:40:16 Z</pubDate>
+    </item>
+    <item>
+      <link>https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/</link>
+      <category>Hacker News: Front Page</category>
+      <title>CFPB Opens Debanking Investigation into Nine Large National Banks</title>
+      <description>
+&lt;p&gt;Article URL: &lt;a href="https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/"&gt;https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50143876"&gt;https://news.ycombinator.com/item?id=50143876&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 12&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description>

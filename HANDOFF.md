@@ -89,3 +89,8 @@ Exit codes verified manually:
 - Item `<link>` is emitted with `CreateAlternateLink` so Rss20FeedFormatter
   writes a standard RSS 2.0 `<link>` (not an `atom:link` extension); this was
   verified against the .NET formatter source and the real output.
+
+
+## Reviewer verification (it-dog)
+
+- KinTest VM (release zip only): `feedmeld real.json` exit 0, `feeds=2 ok=2 failed=0 items_in=30 items_out=29`, merged.xml re-parsed with 29 items. Evidence: `evidence/vm/`.

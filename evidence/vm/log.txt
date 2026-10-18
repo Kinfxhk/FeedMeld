@@ -1,0 +1,3 @@
+FeedMeld exit=0
+FeedMeld out=C:\Users\KinTest\inst\s5\merged.xml bytes=60158
+FeedMeld items=29
